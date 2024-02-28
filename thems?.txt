@@ -16,11 +16,5 @@
     Análisis de Rendimiento en Diferentes Condiciones:
         Evalúa cómo diferentes condiciones, como el estadio o las condiciones meteorológicas, afectan el rendimiento de los lanzadores y proporciona recomendaciones basadas en casos similares.
 
-    Recomendación de Estrategias de Entrenamiento:
-        Utiliza CBR para recomendar estrategias de entrenamiento específicas basándote en cómo lanzadores históricos han mejorado ciertos aspectos de su juego.
-
-    Predicción de Contratos y Valor Financiero:
-        Estima el valor financiero de un lanzador basándote en casos anteriores y predice el valor de su próximo contrato.
-
     Selección de Jugadores para Partidos Cruciales:
         Sugiere qué lanzadores deberían ser seleccionados para partidos cruciales o enfrentamientos específicos basándote en cómo otros lanzadores han manejado situaciones similares en el pasado.
