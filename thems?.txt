@@ -1,0 +1,26 @@
+    Predicción del Rendimiento Futuro:
+        Utiliza CBR para predecir el rendimiento futuro de un lanzador en términos de estadísticas clave como ERA, ponches por nueve innings (K/9), y bases por bolas por nueve innings (BB/9), basándote en casos históricos de lanzadores con perfiles similares.
+
+    Selección de Estrategias de Lanzamiento:
+        Basándote en casos históricos, sugiere estrategias de lanzamiento específicas para enfrentar a ciertos tipos de bateadores o situaciones de juego.
+
+    Evaluación de Riesgo de Lesiones:
+        Predice el riesgo de lesiones para un lanzador específico basándote en casos anteriores de lanzadores con historiales similares.
+
+    Optimización de la Rotación de Lanzadores:
+        Utiliza CBR para optimizar la rotación de lanzadores en un equipo en función de factores como el rendimiento histórico, la fatiga y la eficacia contra tipos específicos de bateadores.
+
+    Identificación de Jugadores Similares:
+        Encuentra lanzadores históricos con perfiles de rendimiento similares a un jugador específico para obtener información sobre cómo han manejado ciertas situaciones.
+
+    Análisis de Rendimiento en Diferentes Condiciones:
+        Evalúa cómo diferentes condiciones, como el estadio o las condiciones meteorológicas, afectan el rendimiento de los lanzadores y proporciona recomendaciones basadas en casos similares.
+
+    Recomendación de Estrategias de Entrenamiento:
+        Utiliza CBR para recomendar estrategias de entrenamiento específicas basándote en cómo lanzadores históricos han mejorado ciertos aspectos de su juego.
+
+    Predicción de Contratos y Valor Financiero:
+        Estima el valor financiero de un lanzador basándote en casos anteriores y predice el valor de su próximo contrato.
+
+    Selección de Jugadores para Partidos Cruciales:
+        Sugiere qué lanzadores deberían ser seleccionados para partidos cruciales o enfrentamientos específicos basándote en cómo otros lanzadores han manejado situaciones similares en el pasado.
