@@ -16,5 +16,6 @@ import pandas as pd
 #remove irrelevant data from the pitching repertoire and replace the necessary NaN value data with numeric values ​​of 0
 df =  pd.read_csv("/home/gabriel/OneDrive/AAAIMX/ICCBR/Data_Baseball/RemplaceNaNData/NaN_at_0.csv")
 
+df = pd.read_csv("/home/gabriel/OneDrive/AAAIMX/ICCBR/Data_Baseball/DeleteNaNData/archivo_sin_columnasBasura_V1.csv")
 print(df)
 
